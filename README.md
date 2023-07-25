@@ -1,4 +1,4 @@
-# Introduction to Reinforcement Learning
+# Introduction to Reinforcement Learning @ ASAI, 2023 Bertinoro, Italy
 This repository contains the code for the course "Reinforcement Learning, Unlocking the Power of AI Agents".
 The course aims to provide a practical introduction to reinforcement learning, 
 a subfield of machine learning that is concerned with learning how to make decisions in complex environments. 
